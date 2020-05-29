@@ -1,4 +1,3 @@
-from operator import attrgetter
 from Item import Item
 import pandas as pd
 import csv
